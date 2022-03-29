@@ -23,7 +23,7 @@ public class IntroToVariables {
         /*
         double quote is for char; 'S' upper-case;
         one character from String worth 16 bits.
-        "Thao Nhi" = (4+1+3) * 16 ; space is a character too. [umm, Nhi is my lover]
+        "L Lawliet" = (1+1+7) * 16 ; space is a character too. 
         */
     }
 }

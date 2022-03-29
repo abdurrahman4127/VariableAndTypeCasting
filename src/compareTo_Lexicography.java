@@ -1,9 +1,9 @@
 public class compareTo_Lexicography {
     public static void main(String[] args)
     {
-        String a = "Abdur Rahman 11";
-        String b = "Abdur Rahman 111";
-        String c = "Thao Nhi";
+        String a = "Abdur Rahman";
+        String b = "L Lawliet";
+        String c = "Spike Spiegel";
 
         System.out.println(a.compareTo(b));
 
